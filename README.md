@@ -1,2 +1,2 @@
 # Sudoku
-Android + Kotilin App
+Android + Kotlin App
